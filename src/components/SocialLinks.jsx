@@ -13,7 +13,7 @@ const SocialLinks = () => {
                 LinkedIn <FaLinkedin size={30}/>
                 </>
             ),
-            href: 'https://www.linkedin.com/in/danielajonesin/',
+            href: 'https://www.linkedin.com/in/daniel-a-jones-in/',
             style: 'rounded-tr-md'
         },
         {
